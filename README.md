@@ -33,21 +33,28 @@ $ python app-gui.py
 Add the user you want to train a classifier for <br>
 ![page1]
 
-![WhatsApp Image 2023-04-17 at 11 13 23](https://user-images.githubusercontent.com/86155054/232402096-5b4d8d79-1f37-4142-a046-a4f67180fd04.jpg)
+![image](https://user-images.githubusercontent.com/86155054/236612464-80dc49e4-135d-4059-a5c7-b4fb83784d6c.png)<br>
+![image](https://user-images.githubusercontent.com/86155054/236612476-1313e780-6482-4dba-9ae8-e00a2476af13.png)
+
 
 ### Capture Data and Train Classifier<br>
 Capture Data From the face then train the classifier<br>
-![page2](https://i.ibb.co/D8JgYhN/capandtraindata.png)<br>
+![image](https://user-images.githubusercontent.com/86155054/236612493-2bf004eb-4252-481c-901e-57bef2777bf1.png)
+
+<br>
+![image](https://user-images.githubusercontent.com/86155054/236612515-af16c5bb-7451-4fcd-b5fc-02c24f2d0852.png)
+
+
 
 ### Users List<br>
 List of all the users<br>
-![WhatsApp Image 2023-04-17 at 11 16 49](https://user-images.githubusercontent.com/86155054/232402298-a7ea5a88-f392-46f6-9b9a-4b625e29c4fd.jpg)
+![image](https://user-images.githubusercontent.com/86155054/236612525-f6038c60-8f35-4b01-b470-a3a7e94ddf10.png)
+
 
 ### Recognition <br>
 A webcam window will popup and start recognition proccess<br>
-![WhatsApp Image 2023-04-18 at 12 22 17](https://user-images.githubusercontent.com/86155054/232696928-74b24297-452d-47bf-81c1-fda8115ff69f.jpg)
-![WhatsApp Image 2023-04-18 at 12 22 00](https://user-images.githubusercontent.com/86155054/232696978-749d0afb-32d1-4a02-a1ba-22abf8955cc3.jpg)
-
+![image](https://user-images.githubusercontent.com/86155054/236612531-deff40f9-950e-4cbd-8051-d9c8bc6d1534.png)<br>
+![image](https://user-images.githubusercontent.com/86155054/236612541-9e0b1e45-db86-409f-abfe-42e3b5ce95b3.png)
 
 
 
