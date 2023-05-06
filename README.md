@@ -11,13 +11,17 @@
   
 # Installation
 
+
+
 1 : Install the requirements .
 
 ```sh
+$ py -m pip install --user virtualenv
+
+To create a virtual environment, go to your project’s directory and run venv.
+$ py -m venv env 
+$ .\env\Scripts\activate
 $ pip install -r  requirements.txt
-$ pip install opencv-python
-$ pip install PIL
-$ pip install --upgrade --force-reinstall -r requirements.txt
 
 ```
 
