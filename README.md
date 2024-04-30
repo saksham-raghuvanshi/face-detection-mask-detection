@@ -45,7 +45,7 @@ Add the user you want to train a classifier for <br>
 Capture Data From the face then train the classifier<br>
 ![image](https://user-images.githubusercontent.com/86155054/236612493-2bf004eb-4252-481c-901e-57bef2777bf1.png)
 
-<br>
+
 ![image](https://user-images.githubusercontent.com/86155054/236612515-af16c5bb-7451-4fcd-b5fc-02c24f2d0852.png)
 
 
